@@ -1,5 +1,7 @@
 # NoteLyn AI
 
+<p dir="ltr"><strong>English</strong> · <a href="README.de.md">Deutsch</a> · <a href="README.fr.md">Français</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt.md">Português</a> · <a href="README.ja.md">日本語</a> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.pl.md">Polski</a> · <a href="README.he.md">עברית</a></p>
+
 **Turn lectures and study materials into notes you can actually use.**
 
 NoteLyn is an AI note taker that turns recordings, PDFs, documents, photos and links into structured notes. Review the key ideas, practice with flashcards and quizzes, explore a mind map, or ask questions about the same note.
@@ -138,7 +140,7 @@ Comparing tools? Start with how you capture material and how you want to review 
 | Tool | Documented workflow | What to compare with NoteLyn |
 | --- | --- | --- |
 | **[NoteLyn](https://www.notelyn.com/features)** | Turn a recording, document, image, text or supported link into a note, then use flashcards, quizzes, mind maps, infographics, podcasts and chat. | Try the capture-to-review workflow with your own material. Each note starts from one source; podcasts require Pro and credits. |
-| **[Gemini Notebook / NotebookLM](https://support.google.com/gemininotebook/answer/16179559?hl=en)** | Select notebook sources and ask questions with citations; [study tools](https://support.google.com/gemininotebook/answer/16958963?hl=en) include flashcards and quizzes. | Source selection, working across materials and following answers back to citations. |
+| **[Gemini Notebook / NotebookLM](https://support.google.com/gemininotebook/answer/16179559?hl=en)** | Select notebook sources, ask questions and receive answers with source citations; [study tools](https://support.google.com/gemininotebook/answer/16958963?hl=en) include flashcards and quizzes. | Source selection, working across materials and following answers back to citations. |
 | **[Quizlet](https://help.quizlet.com/hc/en-us/articles/360030841732-Studying-on-Quizlet)** | Study with flashcards and practice activities, or turn uploaded notes into study guides and practice tests. | Practice formats, existing study sets and how well generated questions match what you need to learn. |
 | **[Coconote](https://coconote.app/)** | Turn recordings or uploads into notes, transcripts, chat, flashcards, quizzes, study games and podcasts. | Use the same material to compare the study experience, import options and current plan limits. |
 
@@ -229,7 +231,7 @@ Details checked against the recording:
 <details>
 <summary><strong>How does NoteLyn compare with NotebookLM?</strong></summary>
 
-NoteLyn turns a supported recording, document, image, text or link into an individual note with summaries, flashcards, quizzes and mind maps. [Google's Gemini Notebook / NotebookLM](https://support.google.com/gemininotebook/answer/16179559?hl=en) lets you select notebook sources and ask questions with citations, alongside [study tools](https://support.google.com/gemininotebook/answer/16958963?hl=en). Compare source organization, checking answers against the material, and the review routine you prefer.
+NoteLyn turns a supported recording, document, image, text or link into an individual note with summaries, flashcards, quizzes and mind maps. [Google's Gemini Notebook / NotebookLM](https://support.google.com/gemininotebook/answer/16179559?hl=en) lets you select notebook sources, ask questions and receive answers with source citations. It also offers [study tools](https://support.google.com/gemininotebook/answer/16958963?hl=en). Compare source organization, checking answers against the material, and the review routine you prefer.
 
 </details>
 
