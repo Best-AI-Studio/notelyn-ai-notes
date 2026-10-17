@@ -1,6 +1,6 @@
 # NoteLyn AI
 
-<p dir="ltr"><a href="README.md">English</a> · <a href="README.de.md">Deutsch</a> · <a href="README.fr.md">Français</a> · <a href="README.zh-TW.md">繁體中文</a> · <strong>한국어</strong> · <a href="README.pt.md">Português</a> · <a href="README.ja.md">日本語</a> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.pl.md">Polski</a> · <a href="README.he.md">עברית</a></p>
+<p dir="ltr"><a href="../../README.md">English</a> · <a href="README.de.md">Deutsch</a> · <a href="README.fr.md">Français</a> · <a href="README.zh-TW.md">繁體中文</a> · <strong>한국어</strong> · <a href="README.pt.md">Português</a> · <a href="README.ja.md">日本語</a> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.pl.md">Polski</a> · <a href="README.he.md">עברית</a></p>
 
 **강의와 학습 자료를 실제로 쓸 수 있는 노트로 바꿔 보세요.**
 
@@ -14,7 +14,7 @@ NoteLyn은 녹음, PDF, 문서, 사진, 링크를 구조화된 노트로 바꿔 
 
 [웹사이트](https://www.notelyn.com/ko) · [App Store](https://apps.apple.com/app/id6747017579) · [Google Play](https://play.google.com/store/apps/details?id=com.studyai.ainotetaker)
 
-![NoteLyn AI 제품 개요: 샘플 노트, 플래시카드, 퀴즈를 보여주는 화면](images/product-overview.png)
+![NoteLyn AI 제품 개요: 샘플 노트, 플래시카드, 퀴즈를 보여주는 화면](../../images/product-overview.png)
 
 *이미지는 제품 및 웹사이트 디자인을 보여주기 위한 예시예요. 예시 콘텐츠, 점수, 잔액은 설명용이며, 레이아웃과 한도는 앱에서 다를 수 있어요.*
 
@@ -128,22 +128,22 @@ NoteLyn 노트를 중심으로 만들 수 있는 복습 루틴은 다음과 같�
 | **자료 가져오기** | **정리된 노트 받기** |
 | --- | --- |
 | 기존 녹음을 업로드하고 노트북을 고르세요. | 제목, 핵심 포인트, 주요 내용을 검토하세요. |
-| <a href="images/capture-upload-audio.webp"><img src="images/capture-upload-audio.webp" alt="노트 오디오 업로드 대화상자와 노트북 선택기를 보여주는 NoteLyn 웹사이트 디자인 예시" width="360"></a> | <a href="images/ai-note-view.webp"><img src="images/ai-note-view.webp" alt="제목과 핵심 요점이 있는 구조화된 노트를 보여주는 NoteLyn 웹사이트 디자인 예시" width="360"></a> |
+| <a href="../../images/capture-upload-audio.webp"><img src="../../images/capture-upload-audio.webp" alt="노트 오디오 업로드 대화상자와 노트북 선택기를 보여주는 NoteLyn 웹사이트 디자인 예시" width="360"></a> | <a href="../../images/ai-note-view.webp"><img src="../../images/ai-note-view.webp" alt="제목과 핵심 요점이 있는 구조화된 노트를 보여주는 NoteLyn 웹사이트 디자인 예시" width="360"></a> |
 
 | **플래시카드로 연습하기** | **이해도 확인하기** |
 | --- | --- |
 | 답을 떠올린 뒤 카드를 뒤집어 확인하세요. | 퀴즈를 풀고 답에 대한 해설을 읽으세요. |
-| <a href="images/flashcards-deck.webp"><img src="images/flashcards-deck.webp" alt="질문과 카드 뒤집기 버튼이 있는 플래시카드를 보여주는 NoteLyn 웹사이트 디자인 예시" width="360"></a> | <a href="images/quiz.webp"><img src="images/quiz.webp" alt="정답과 오답, 해설이 있는 퀴즈를 보여주는 NoteLyn 웹사이트 디자인 예시" width="360"></a> |
+| <a href="../../images/flashcards-deck.webp"><img src="../../images/flashcards-deck.webp" alt="질문과 카드 뒤집기 버튼이 있는 플래시카드를 보여주는 NoteLyn 웹사이트 디자인 예시" width="360"></a> | <a href="../../images/quiz.webp"><img src="../../images/quiz.webp" alt="정답과 오답, 해설이 있는 퀴즈를 보여주는 NoteLyn 웹사이트 디자인 예시" width="360"></a> |
 
 | **아이디어 연결하기** | **헷갈리는 부분 질문하기** |
 | --- | --- |
 | 주요 개념을 마인드맵으로 살펴보세요. | 열려 있는 노트의 개념에 대해 AI에게 질문하세요. |
-| <a href="images/mind-map-view.webp"><img src="images/mind-map-view.webp" alt="연결된 개념과 확대/축소 컨트롤이 있는 마인드맵을 보여주는 NoteLyn 웹사이트 디자인 예시" width="360"></a> | <a href="images/ai-chat-panel.webp"><img src="images/ai-chat-panel.webp" alt="현재 노트 옆에서 질문에 답하는 AI 채팅을 보여주는 NoteLyn 웹사이트 디자인 예시" width="360"></a> |
+| <a href="../../images/mind-map-view.webp"><img src="../../images/mind-map-view.webp" alt="연결된 개념과 확대/축소 컨트롤이 있는 마인드맵을 보여주는 NoteLyn 웹사이트 디자인 예시" width="360"></a> | <a href="../../images/ai-chat-panel.webp"><img src="../../images/ai-chat-panel.webp" alt="현재 노트 옆에서 질문에 답하는 AI 채팅을 보여주는 NoteLyn 웹사이트 디자인 예시" width="360"></a> |
 
 | **자료 듣기** | **시각적으로 검토하기** |
 | --- | --- |
 | 두 진행자가 나오는 팟캐스트 에피소드를 생성하세요. Pro 요금제와 팟캐스트 크레딧이 모두 필요해요. | 검토하거나 다운로드할 한 페이지짜리 인포그래픽을 생성하세요. |
-| <a href="images/podcast-episode.webp"><img src="images/podcast-episode.webp" alt="재생 컨트롤이 있는 팟캐스트 에피소드 플레이어를 보여주는 NoteLyn 웹사이트 디자인 예시" width="360"></a> | <a href="images/infographic-poster.webp"><img src="images/infographic-poster.webp" alt="공유 및 다운로드 컨트롤이 있는 시각 요약 포스터를 보여주는 NoteLyn 웹사이트 디자인 예시" width="360"></a> |
+| <a href="../../images/podcast-episode.webp"><img src="../../images/podcast-episode.webp" alt="재생 컨트롤이 있는 팟캐스트 에피소드 플레이어를 보여주는 NoteLyn 웹사이트 디자인 예시" width="360"></a> | <a href="../../images/infographic-poster.webp"><img src="../../images/infographic-poster.webp" alt="공유 및 다운로드 컨트롤이 있는 시각 요약 포스터를 보여주는 NoteLyn 웹사이트 디자인 예시" width="360"></a> |
 
 현재 형식과 요금제 세부 정보는 [NoteLyn 기능 가이드](https://www.notelyn.com/ko/features)를 참고하세요.
 

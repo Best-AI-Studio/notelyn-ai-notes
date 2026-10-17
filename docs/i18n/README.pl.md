@@ -1,6 +1,6 @@
 # NoteLyn AI
 
-<p dir="ltr"><a href="README.md">English</a> · <a href="README.de.md">Deutsch</a> · <a href="README.fr.md">Français</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt.md">Português</a> · <a href="README.ja.md">日本語</a> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <strong>Polski</strong> · <a href="README.he.md">עברית</a></p>
+<p dir="ltr"><a href="../../README.md">English</a> · <a href="README.de.md">Deutsch</a> · <a href="README.fr.md">Français</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt.md">Português</a> · <a href="README.ja.md">日本語</a> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <strong>Polski</strong> · <a href="README.he.md">עברית</a></p>
 
 **Zamieniaj wykłady i materiały do nauki w notatki, z których naprawdę można korzystać.**
 
@@ -14,7 +14,7 @@ Przynieś wykład, który musisz powtórzyć, lekturę, którą chcesz zrozumie�
 
 [Strona internetowa](https://www.notelyn.com/pl) · [App Store](https://apps.apple.com/app/id6747017579) · [Google Play](https://play.google.com/store/apps/details?id=com.studyai.ainotetaker)
 
-![Przegląd produktu NoteLyn AI pokazujący przykładową notatkę, fiszkę i quiz](images/product-overview.png)
+![Przegląd produktu NoteLyn AI pokazujący przykładową notatkę, fiszkę i quiz](../../images/product-overview.png)
 
 *Obrazy to poglądowe próbki projektu produktu i strony internetowej. Przykładowe treści, wyniki i salda służą do prezentacji; układy i limity mogą różnić się w aplikacji.*
 
@@ -128,22 +128,22 @@ Przejdź ścieżką od nagrania do sesji powtórkowej. Kliknij obraz, aby otworz
 | **Dodaj swój materiał** | **Otrzymaj uporządkowaną notatkę** |
 | --- | --- |
 | Prześlij istniejące nagranie i wybierz jego notatnik. | Przejrzyj nagłówki, kluczowe punkty i wnioski. |
-| <a href="images/capture-upload-audio.webp"><img src="images/capture-upload-audio.webp" alt="Próbka projektu strony NoteLyn: okno przesyłania pliku audio z wyborem notatnika" width="360"></a> | <a href="images/ai-note-view.webp"><img src="images/ai-note-view.webp" alt="Próbka projektu strony NoteLyn: ustrukturyzowana notatka z nagłówkami i kluczowymi wnioskami" width="360"></a> |
+| <a href="../../images/capture-upload-audio.webp"><img src="../../images/capture-upload-audio.webp" alt="Próbka projektu strony NoteLyn: okno przesyłania pliku audio z wyborem notatnika" width="360"></a> | <a href="../../images/ai-note-view.webp"><img src="../../images/ai-note-view.webp" alt="Próbka projektu strony NoteLyn: ustrukturyzowana notatka z nagłówkami i kluczowymi wnioskami" width="360"></a> |
 
 | **Ćwicz z fiszkami** | **Sprawdź swoje zrozumienie** |
 | --- | --- |
 | Przypomnij sobie odpowiedź, a potem odwróć kartę, aby ją sprawdzić. | Rozwiąż quiz i przeczytaj wyjaśnienie odpowiedzi. |
-| <a href="images/flashcards-deck.webp"><img src="images/flashcards-deck.webp" alt="Próbka projektu strony NoteLyn: fiszka z pytaniem i przyciskiem Odwróć kartę" width="360"></a> | <a href="images/quiz.webp"><img src="images/quiz.webp" alt="Próbka projektu strony NoteLyn: quiz z poprawnymi i niepoprawnymi odpowiedziami oraz wyjaśnieniem" width="360"></a> |
+| <a href="../../images/flashcards-deck.webp"><img src="../../images/flashcards-deck.webp" alt="Próbka projektu strony NoteLyn: fiszka z pytaniem i przyciskiem Odwróć kartę" width="360"></a> | <a href="../../images/quiz.webp"><img src="../../images/quiz.webp" alt="Próbka projektu strony NoteLyn: quiz z poprawnymi i niepoprawnymi odpowiedziami oraz wyjaśnieniem" width="360"></a> |
 
 | **Połącz idee** | **Zapytaj o to, co jest niejasne** |
 | --- | --- |
 | Poznaj główne pojęcia jako mapę myśli. | Zapytaj AI o pojęcie z otwartej notatki. |
-| <a href="images/mind-map-view.webp"><img src="images/mind-map-view.webp" alt="Próbka projektu strony NoteLyn: mapa myśli z połączonymi pojęciami i przyciskami powiększania" width="360"></a> | <a href="images/ai-chat-panel.webp"><img src="images/ai-chat-panel.webp" alt="Próbka projektu strony NoteLyn: czat AI odpowiadający na pytanie obok bieżącej notatki" width="360"></a> |
+| <a href="../../images/mind-map-view.webp"><img src="../../images/mind-map-view.webp" alt="Próbka projektu strony NoteLyn: mapa myśli z połączonymi pojęciami i przyciskami powiększania" width="360"></a> | <a href="../../images/ai-chat-panel.webp"><img src="../../images/ai-chat-panel.webp" alt="Próbka projektu strony NoteLyn: czat AI odpowiadający na pytanie obok bieżącej notatki" width="360"></a> |
 
 | **Słuchaj swojego materiału** | **Przejrzyj go wizualnie** |
 | --- | --- |
 | Wygeneruj odcinek podcastu z dwoma prowadzącymi. Obowiązują plan Pro i kredyty na podcasty. | Wygeneruj jednostronicową infografikę do przeglądu lub pobrania. |
-| <a href="images/podcast-episode.webp"><img src="images/podcast-episode.webp" alt="Próbka projektu strony NoteLyn: odtwarzacz odcinka podcastu z kontrolkami odtwarzania" width="360"></a> | <a href="images/infographic-poster.webp"><img src="images/infographic-poster.webp" alt="Próbka projektu strony NoteLyn: plakat z wizualnym podsumowaniem z przyciskami Udostępnij i Pobierz" width="360"></a> |
+| <a href="../../images/podcast-episode.webp"><img src="../../images/podcast-episode.webp" alt="Próbka projektu strony NoteLyn: odtwarzacz odcinka podcastu z kontrolkami odtwarzania" width="360"></a> | <a href="../../images/infographic-poster.webp"><img src="../../images/infographic-poster.webp" alt="Próbka projektu strony NoteLyn: plakat z wizualnym podsumowaniem z przyciskami Udostępnij i Pobierz" width="360"></a> |
 
 Aktualne formaty i szczegóły planów znajdziesz w [przewodniku po funkcjach NoteLyn](https://www.notelyn.com/pl/features).
 

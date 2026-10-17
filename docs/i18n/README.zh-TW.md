@@ -1,6 +1,6 @@
 # NoteLyn AI
 
-<p dir="ltr"><a href="README.md">English</a> · <a href="README.de.md">Deutsch</a> · <a href="README.fr.md">Français</a> · <strong>繁體中文</strong> · <a href="README.ko.md">한국어</a> · <a href="README.pt.md">Português</a> · <a href="README.ja.md">日本語</a> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.pl.md">Polski</a> · <a href="README.he.md">עברית</a></p>
+<p dir="ltr"><a href="../../README.md">English</a> · <a href="README.de.md">Deutsch</a> · <a href="README.fr.md">Français</a> · <strong>繁體中文</strong> · <a href="README.ko.md">한국어</a> · <a href="README.pt.md">Português</a> · <a href="README.ja.md">日本語</a> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.pl.md">Polski</a> · <a href="README.he.md">עברית</a></p>
 
 **把講座與學習資料變成真正好用的筆記。**
 
@@ -14,7 +14,7 @@ NoteLyn 是一款 AI 筆記工具，能把錄音、PDF、文件、照片和連�
 
 [網站](https://www.notelyn.com/zh-TW) · [App Store](https://apps.apple.com/app/id6747017579) · [Google Play](https://play.google.com/store/apps/details?id=com.studyai.ainotetaker)
 
-![NoteLyn AI 產品總覽，展示範例筆記、閃卡與測驗](images/product-overview.png)
+![NoteLyn AI 產品總覽，展示範例筆記、閃卡與測驗](../../images/product-overview.png)
 
 *圖片為說明用的產品與網站設計範例。範例內容、分數與餘額僅供展示；實際應用程式中的版面與限制可能有所不同。*
 
@@ -128,22 +128,22 @@ NoteLyn 是一款 AI 筆記工具，能把錄音、PDF、文件、照片和連�
 | **匯入你的素材** | **取得有條理的筆記** |
 | --- | --- |
 | 上傳既有錄音並選擇其筆記本。 | 檢視標題、重點與要點。 |
-| <a href="images/capture-upload-audio.webp"><img src="images/capture-upload-audio.webp" alt="NoteLyn 網站設計範例，顯示含筆記本選擇器的音訊上傳對話框" width="360"></a> | <a href="images/ai-note-view.webp"><img src="images/ai-note-view.webp" alt="NoteLyn 網站設計範例，顯示含標題與重點摘要的結構化筆記" width="360"></a> |
+| <a href="../../images/capture-upload-audio.webp"><img src="../../images/capture-upload-audio.webp" alt="NoteLyn 網站設計範例，顯示含筆記本選擇器的音訊上傳對話框" width="360"></a> | <a href="../../images/ai-note-view.webp"><img src="../../images/ai-note-view.webp" alt="NoteLyn 網站設計範例，顯示含標題與重點摘要的結構化筆記" width="360"></a> |
 
 | **用閃卡練習** | **檢查你的理解** |
 | --- | --- |
 | 先回想答案，再翻面核對。 | 進行測驗並閱讀答案的解釋。 |
-| <a href="images/flashcards-deck.webp"><img src="images/flashcards-deck.webp" alt="NoteLyn 網站設計範例，顯示含問題與「翻面卡片」按鈕的閃卡" width="360"></a> | <a href="images/quiz.webp"><img src="images/quiz.webp" alt="NoteLyn 網站設計範例，顯示含正確與錯誤答案及解釋的測驗" width="360"></a> |
+| <a href="../../images/flashcards-deck.webp"><img src="../../images/flashcards-deck.webp" alt="NoteLyn 網站設計範例，顯示含問題與「翻面卡片」按鈕的閃卡" width="360"></a> | <a href="../../images/quiz.webp"><img src="../../images/quiz.webp" alt="NoteLyn 網站設計範例，顯示含正確與錯誤答案及解釋的測驗" width="360"></a> |
 
 | **連結各種概念** | **針對不清楚的部分提問** |
 | --- | --- |
 | 以心智圖探索主要概念。 | 針對你開啟的筆記中的某個概念向 AI 提問。 |
-| <a href="images/mind-map-view.webp"><img src="images/mind-map-view.webp" alt="NoteLyn 網站設計範例，顯示含相連概念與縮放控制的心智圖" width="360"></a> | <a href="images/ai-chat-panel.webp"><img src="images/ai-chat-panel.webp" alt="NoteLyn 網站設計範例，顯示 AI 聊天在目前筆記旁回答問題" width="360"></a> |
+| <a href="../../images/mind-map-view.webp"><img src="../../images/mind-map-view.webp" alt="NoteLyn 網站設計範例，顯示含相連概念與縮放控制的心智圖" width="360"></a> | <a href="../../images/ai-chat-panel.webp"><img src="../../images/ai-chat-panel.webp" alt="NoteLyn 網站設計範例，顯示 AI 聊天在目前筆記旁回答問題" width="360"></a> |
 
 | **聆聽你的素材** | **以視覺方式複習** |
 | --- | --- |
 | 產生雙主持人的 Podcast 節目。需使用 Pro 方案，並消耗 Podcast 點數。 | 產生可供複習或下載的單頁資訊圖表。 |
-| <a href="images/podcast-episode.webp"><img src="images/podcast-episode.webp" alt="NoteLyn 網站設計範例，顯示含播放控制的 Podcast 節目播放器" width="360"></a> | <a href="images/infographic-poster.webp"><img src="images/infographic-poster.webp" alt="NoteLyn 網站設計範例，顯示含分享與下載控制的視覺摘要海報" width="360"></a> |
+| <a href="../../images/podcast-episode.webp"><img src="../../images/podcast-episode.webp" alt="NoteLyn 網站設計範例，顯示含播放控制的 Podcast 節目播放器" width="360"></a> | <a href="../../images/infographic-poster.webp"><img src="../../images/infographic-poster.webp" alt="NoteLyn 網站設計範例，顯示含分享與下載控制的視覺摘要海報" width="360"></a> |
 
 請參閱 [NoteLyn 功能指南](https://www.notelyn.com/zh-TW/features)，了解目前的格式與方案細節。
 

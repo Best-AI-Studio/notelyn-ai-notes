@@ -1,6 +1,6 @@
 # NoteLyn AI
 
-<p dir="ltr"><a href="README.md">English</a> · <a href="README.de.md">Deutsch</a> · <a href="README.fr.md">Français</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt.md">Português</a> · <a href="README.ja.md">日本語</a> · <strong>Español</strong> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.pl.md">Polski</a> · <a href="README.he.md">עברית</a></p>
+<p dir="ltr"><a href="../../README.md">English</a> · <a href="README.de.md">Deutsch</a> · <a href="README.fr.md">Français</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt.md">Português</a> · <a href="README.ja.md">日本語</a> · <strong>Español</strong> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.pl.md">Polski</a> · <a href="README.he.md">עברית</a></p>
 
 **Convierte clases y materiales de estudio en apuntes que realmente puedas usar.**
 
@@ -14,7 +14,7 @@ Trae una clase que necesites repasar, una lectura que quieras entender o una reu
 
 [Sitio web](https://www.notelyn.com/es) · [App Store](https://apps.apple.com/app/id6747017579) · [Google Play](https://play.google.com/store/apps/details?id=com.studyai.ainotetaker)
 
-![Resumen del producto NoteLyn AI que muestra un apunte de ejemplo, una tarjeta de estudio y un cuestionario](images/product-overview.png)
+![Resumen del producto NoteLyn AI que muestra un apunte de ejemplo, una tarjeta de estudio y un cuestionario](../../images/product-overview.png)
 
 *Las imágenes son muestras ilustrativas del diseño del producto y del sitio web. El contenido, las puntuaciones y los saldos de ejemplo son solo para demostración; las distribuciones y los límites pueden variar en la app.*
 
@@ -128,22 +128,22 @@ Sigue el camino desde una grabación hasta una sesión de repaso. Selecciona una
 | **Trae tu material** | **Obtén un apunte organizado** |
 | --- | --- |
 | Sube una grabación existente y elige su libreta. | Revisa los encabezados, los puntos clave y las conclusiones. |
-| <a href="images/capture-upload-audio.webp"><img src="images/capture-upload-audio.webp" alt="Muestra de diseño del sitio web de NoteLyn: diálogo de subida de audio con selector de libreta" width="360"></a> | <a href="images/ai-note-view.webp"><img src="images/ai-note-view.webp" alt="Muestra de diseño del sitio web de NoteLyn: apunte estructurado con encabezados y conclusiones clave" width="360"></a> |
+| <a href="../../images/capture-upload-audio.webp"><img src="../../images/capture-upload-audio.webp" alt="Muestra de diseño del sitio web de NoteLyn: diálogo de subida de audio con selector de libreta" width="360"></a> | <a href="../../images/ai-note-view.webp"><img src="../../images/ai-note-view.webp" alt="Muestra de diseño del sitio web de NoteLyn: apunte estructurado con encabezados y conclusiones clave" width="360"></a> |
 
 | **Practica con tarjetas de estudio** | **Comprueba lo que entiendes** |
 | --- | --- |
 | Recuerda una respuesta y luego voltea la tarjeta para comprobarla. | Haz un cuestionario y lee la explicación de una respuesta. |
-| <a href="images/flashcards-deck.webp"><img src="images/flashcards-deck.webp" alt="Muestra de diseño del sitio web de NoteLyn: tarjeta de estudio con una pregunta y el botón Voltear tarjeta" width="360"></a> | <a href="images/quiz.webp"><img src="images/quiz.webp" alt="Muestra de diseño del sitio web de NoteLyn: cuestionario con respuestas correctas e incorrectas y una explicación" width="360"></a> |
+| <a href="../../images/flashcards-deck.webp"><img src="../../images/flashcards-deck.webp" alt="Muestra de diseño del sitio web de NoteLyn: tarjeta de estudio con una pregunta y el botón Voltear tarjeta" width="360"></a> | <a href="../../images/quiz.webp"><img src="../../images/quiz.webp" alt="Muestra de diseño del sitio web de NoteLyn: cuestionario con respuestas correctas e incorrectas y una explicación" width="360"></a> |
 
 | **Conecta las ideas** | **Pregunta sobre lo que no está claro** |
 | --- | --- |
 | Explora los conceptos principales como un mapa mental. | Pregunta a la IA sobre un concepto del apunte que tienes abierto. |
-| <a href="images/mind-map-view.webp"><img src="images/mind-map-view.webp" alt="Muestra de diseño del sitio web de NoteLyn: mapa mental con conceptos conectados y controles de zoom" width="360"></a> | <a href="images/ai-chat-panel.webp"><img src="images/ai-chat-panel.webp" alt="Muestra de diseño del sitio web de NoteLyn: chat de IA respondiendo una pregunta junto al apunte actual" width="360"></a> |
+| <a href="../../images/mind-map-view.webp"><img src="../../images/mind-map-view.webp" alt="Muestra de diseño del sitio web de NoteLyn: mapa mental con conceptos conectados y controles de zoom" width="360"></a> | <a href="../../images/ai-chat-panel.webp"><img src="../../images/ai-chat-panel.webp" alt="Muestra de diseño del sitio web de NoteLyn: chat de IA respondiendo una pregunta junto al apunte actual" width="360"></a> |
 
 | **Escucha tu material** | **Revísalo visualmente** |
 | --- | --- |
 | Genera un episodio de podcast con dos presentadores. Necesitas Pro y créditos de podcast. | Genera una infografía de una página para repasar o descargar. |
-| <a href="images/podcast-episode.webp"><img src="images/podcast-episode.webp" alt="Muestra de diseño del sitio web de NoteLyn: reproductor de episodio de podcast con controles de reproducción" width="360"></a> | <a href="images/infographic-poster.webp"><img src="images/infographic-poster.webp" alt="Muestra de diseño del sitio web de NoteLyn: póster de resumen visual con controles Compartir y Descargar" width="360"></a> |
+| <a href="../../images/podcast-episode.webp"><img src="../../images/podcast-episode.webp" alt="Muestra de diseño del sitio web de NoteLyn: reproductor de episodio de podcast con controles de reproducción" width="360"></a> | <a href="../../images/infographic-poster.webp"><img src="../../images/infographic-poster.webp" alt="Muestra de diseño del sitio web de NoteLyn: póster de resumen visual con controles Compartir y Descargar" width="360"></a> |
 
 Consulta la [guía de funciones de NoteLyn](https://www.notelyn.com/es/features) para ver los formatos actuales y los detalles de los planes.
 

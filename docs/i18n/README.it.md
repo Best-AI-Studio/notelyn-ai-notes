@@ -1,6 +1,6 @@
 # NoteLyn AI
 
-<p dir="ltr"><a href="README.md">English</a> · <a href="README.de.md">Deutsch</a> · <a href="README.fr.md">Français</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt.md">Português</a> · <a href="README.ja.md">日本語</a> · <a href="README.es.md">Español</a> · <strong>Italiano</strong> · <a href="README.ar.md">العربية</a> · <a href="README.pl.md">Polski</a> · <a href="README.he.md">עברית</a></p>
+<p dir="ltr"><a href="../../README.md">English</a> · <a href="README.de.md">Deutsch</a> · <a href="README.fr.md">Français</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt.md">Português</a> · <a href="README.ja.md">日本語</a> · <a href="README.es.md">Español</a> · <strong>Italiano</strong> · <a href="README.ar.md">العربية</a> · <a href="README.pl.md">Polski</a> · <a href="README.he.md">עברית</a></p>
 
 **Trasforma lezioni e materiali di studio in appunti che puoi davvero usare.**
 
@@ -14,7 +14,7 @@ Porta una lezione da ripassare, un testo che vuoi capire o una riunione a cui de
 
 [Sito web](https://www.notelyn.com/it) · [App Store](https://apps.apple.com/app/id6747017579) · [Google Play](https://play.google.com/store/apps/details?id=com.studyai.ainotetaker)
 
-![Panoramica del prodotto NoteLyn AI con una nota di esempio, una flashcard e un quiz](images/product-overview.png)
+![Panoramica del prodotto NoteLyn AI con una nota di esempio, una flashcard e un quiz](../../images/product-overview.png)
 
 *Le immagini sono campioni illustrativi di design del prodotto e del sito web. I contenuti, i punteggi e i saldi di esempio sono solo dimostrativi; layout e limiti possono variare nell'app.*
 
@@ -128,22 +128,22 @@ Segui il percorso dalla registrazione alla sessione di ripasso. Seleziona un'imm
 | **Porta il tuo materiale** | **Ottieni una nota organizzata** |
 | --- | --- |
 | Carica una registrazione esistente e scegli il suo notebook. | Rivedi titoli, punti chiave e conclusioni. |
-| <a href="images/capture-upload-audio.webp"><img src="images/capture-upload-audio.webp" alt="Campione di design del sito NoteLyn di una finestra di caricamento audio con selettore del notebook" width="360"></a> | <a href="images/ai-note-view.webp"><img src="images/ai-note-view.webp" alt="Campione di design del sito NoteLyn di una nota strutturata con titoli e conclusioni chiave" width="360"></a> |
+| <a href="../../images/capture-upload-audio.webp"><img src="../../images/capture-upload-audio.webp" alt="Campione di design del sito NoteLyn di una finestra di caricamento audio con selettore del notebook" width="360"></a> | <a href="../../images/ai-note-view.webp"><img src="../../images/ai-note-view.webp" alt="Campione di design del sito NoteLyn di una nota strutturata con titoli e conclusioni chiave" width="360"></a> |
 
 | **Esercitati con le flashcard** | **Verifica la tua comprensione** |
 | --- | --- |
 | Richiama una risposta, poi gira la carta per controllarla. | Fai un quiz e leggi la spiegazione di una risposta. |
-| <a href="images/flashcards-deck.webp"><img src="images/flashcards-deck.webp" alt="Campione di design del sito NoteLyn di una flashcard con una domanda e il pulsante Gira la carta" width="360"></a> | <a href="images/quiz.webp"><img src="images/quiz.webp" alt="Campione di design del sito NoteLyn di un quiz con risposte corrette e sbagliate e una spiegazione" width="360"></a> |
+| <a href="../../images/flashcards-deck.webp"><img src="../../images/flashcards-deck.webp" alt="Campione di design del sito NoteLyn di una flashcard con una domanda e il pulsante Gira la carta" width="360"></a> | <a href="../../images/quiz.webp"><img src="../../images/quiz.webp" alt="Campione di design del sito NoteLyn di un quiz con risposte corrette e sbagliate e una spiegazione" width="360"></a> |
 
 | **Collega le idee** | **Chiedi di ciò che non ti è chiaro** |
 | --- | --- |
 | Esplora i concetti principali come mappa mentale. | Fai domande all'AI su un concetto della nota che hai aperta. |
-| <a href="images/mind-map-view.webp"><img src="images/mind-map-view.webp" alt="Campione di design del sito NoteLyn di una mappa mentale con concetti collegati e controlli di zoom" width="360"></a> | <a href="images/ai-chat-panel.webp"><img src="images/ai-chat-panel.webp" alt="Campione di design del sito NoteLyn di una chat AI che risponde a una domanda accanto alla nota attuale" width="360"></a> |
+| <a href="../../images/mind-map-view.webp"><img src="../../images/mind-map-view.webp" alt="Campione di design del sito NoteLyn di una mappa mentale con concetti collegati e controlli di zoom" width="360"></a> | <a href="../../images/ai-chat-panel.webp"><img src="../../images/ai-chat-panel.webp" alt="Campione di design del sito NoteLyn di una chat AI che risponde a una domanda accanto alla nota attuale" width="360"></a> |
 
 | **Ascolta il tuo materiale** | **Rivedilo visivamente** |
 | --- | --- |
 | Genera un episodio podcast con due conduttori. Sono necessari il piano Pro e crediti per i podcast. | Genera un'infografica di una pagina da ripassare o scaricare. |
-| <a href="images/podcast-episode.webp"><img src="images/podcast-episode.webp" alt="Campione di design del sito NoteLyn di un lettore di episodi podcast con controlli di riproduzione" width="360"></a> | <a href="images/infographic-poster.webp"><img src="images/infographic-poster.webp" alt="Campione di design del sito NoteLyn di un poster di riepilogo visivo con controlli Condividi e Scarica" width="360"></a> |
+| <a href="../../images/podcast-episode.webp"><img src="../../images/podcast-episode.webp" alt="Campione di design del sito NoteLyn di un lettore di episodi podcast con controlli di riproduzione" width="360"></a> | <a href="../../images/infographic-poster.webp"><img src="../../images/infographic-poster.webp" alt="Campione di design del sito NoteLyn di un poster di riepilogo visivo con controlli Condividi e Scarica" width="360"></a> |
 
 Consulta la [guida alle funzionalità di NoteLyn](https://www.notelyn.com/it/features) per i formati attuali e i dettagli dei piani.
 

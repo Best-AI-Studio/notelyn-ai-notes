@@ -1,6 +1,6 @@
 # NoteLyn AI
 
-<p dir="ltr"><a href="README.md">English</a> · <a href="README.de.md">Deutsch</a> · <a href="README.fr.md">Français</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt.md">Português</a> · <a href="README.ja.md">日本語</a> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <strong>العربية</strong> · <a href="README.pl.md">Polski</a> · <a href="README.he.md">עברית</a></p>
+<p dir="ltr"><a href="../../README.md">English</a> · <a href="README.de.md">Deutsch</a> · <a href="README.fr.md">Français</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt.md">Português</a> · <a href="README.ja.md">日本語</a> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <strong>العربية</strong> · <a href="README.pl.md">Polski</a> · <a href="README.he.md">עברית</a></p>
 
 <div dir="rtl" lang="ar">
 
@@ -16,7 +16,7 @@ NoteLyn هو تطبيق لتدوين الملاحظات بالذكاء الاص�
 
 [الموقع الإلكتروني](https://www.notelyn.com/ar) · [App Store](https://apps.apple.com/app/id6747017579) · [Google Play](https://play.google.com/store/apps/details?id=com.studyai.ainotetaker)
 
-![نظرة عامة على منتج NoteLyn AI تعرض ملاحظة نموذجية وبطاقة تعليمية واختباراً](images/product-overview.png)
+![نظرة عامة على منتج NoteLyn AI تعرض ملاحظة نموذجية وبطاقة تعليمية واختباراً](../../images/product-overview.png)
 
 *الصور توضيحية لتصاميم المنتج والموقع الإلكتروني. المحتوى والنتائج والأرصدة الواردة فيها للعرض فقط، وقد تختلف التخطيطات والحدود داخل التطبيق.*
 
@@ -130,22 +130,22 @@ NoteLyn هو تطبيق لتدوين الملاحظات بالذكاء الاص�
 | **أحضر موادك** | **احصل على ملاحظة منظمة** |
 | --- | --- |
 | ارفع تسجيلاً صوتياً موجوداً، واختر دفتر الملاحظات الخاص به. | راجع العناوين والنقاط الرئيسية والخلاصات. |
-| <a href="images/capture-upload-audio.webp"><img src="images/capture-upload-audio.webp" alt="نموذج تصميم لموقع NoteLyn يعرض نافذة رفع ملف صوتي مع أداة اختيار دفتر الملاحظات" width="360"></a> | <a href="images/ai-note-view.webp"><img src="images/ai-note-view.webp" alt="نموذج تصميم لموقع NoteLyn يعرض ملاحظة منظمة بعناوين وخلاصات رئيسية" width="360"></a> |
+| <a href="../../images/capture-upload-audio.webp"><img src="../../images/capture-upload-audio.webp" alt="نموذج تصميم لموقع NoteLyn يعرض نافذة رفع ملف صوتي مع أداة اختيار دفتر الملاحظات" width="360"></a> | <a href="../../images/ai-note-view.webp"><img src="../../images/ai-note-view.webp" alt="نموذج تصميم لموقع NoteLyn يعرض ملاحظة منظمة بعناوين وخلاصات رئيسية" width="360"></a> |
 
 | **تدرّب بالبطاقات التعليمية** | **تحقّق من فهمك** |
 | --- | --- |
 | استرجع الإجابة، ثم اقلب البطاقة للتحقق منها. | أجرِ اختباراً واقرأ الشرح الخاص بالإجابة. |
-| <a href="images/flashcards-deck.webp"><img src="images/flashcards-deck.webp" alt="نموذج تصميم لموقع NoteLyn يعرض بطاقة تعليمية تحتوي على سؤال وزر قلب البطاقة" width="360"></a> | <a href="images/quiz.webp"><img src="images/quiz.webp" alt="نموذج تصميم لموقع NoteLyn يعرض اختباراً بإجابات صحيحة وخاطئة وشرحاً" width="360"></a> |
+| <a href="../../images/flashcards-deck.webp"><img src="../../images/flashcards-deck.webp" alt="نموذج تصميم لموقع NoteLyn يعرض بطاقة تعليمية تحتوي على سؤال وزر قلب البطاقة" width="360"></a> | <a href="../../images/quiz.webp"><img src="../../images/quiz.webp" alt="نموذج تصميم لموقع NoteLyn يعرض اختباراً بإجابات صحيحة وخاطئة وشرحاً" width="360"></a> |
 
 | **اربط الأفكار** | **اسأل عما يبدو غامضاً** |
 | --- | --- |
 | استكشف المفاهيم الرئيسية في صورة خريطة ذهنية. | اسأل الذكاء الاصطناعي عن مفهوم في الملاحظة المفتوحة لديك. |
-| <a href="images/mind-map-view.webp"><img src="images/mind-map-view.webp" alt="نموذج تصميم لموقع NoteLyn يعرض خريطة ذهنية بمفاهيم مترابطة وأدوات تكبير وتصغير" width="360"></a> | <a href="images/ai-chat-panel.webp"><img src="images/ai-chat-panel.webp" alt="نموذج تصميم لموقع NoteLyn يعرض محادثة ذكاء اصطناعي تجيب عن سؤال بجانب الملاحظة الحالية" width="360"></a> |
+| <a href="../../images/mind-map-view.webp"><img src="../../images/mind-map-view.webp" alt="نموذج تصميم لموقع NoteLyn يعرض خريطة ذهنية بمفاهيم مترابطة وأدوات تكبير وتصغير" width="360"></a> | <a href="../../images/ai-chat-panel.webp"><img src="../../images/ai-chat-panel.webp" alt="نموذج تصميم لموقع NoteLyn يعرض محادثة ذكاء اصطناعي تجيب عن سؤال بجانب الملاحظة الحالية" width="360"></a> |
 
 | **استمع إلى موادك** | **راجعها بصرياً** |
 | --- | --- |
 | أنشئ حلقة بودكاست بين مقدمَين. يتطلب ذلك اشتراك Pro ويستهلك أرصدة البودكاست. | أنشئ إنفوجرافيك من صفحة واحدة للمراجعة أو التنزيل. |
-| <a href="images/podcast-episode.webp"><img src="images/podcast-episode.webp" alt="نموذج تصميم لموقع NoteLyn يعرض مشغّل حلقة بودكاست مع أدوات التشغيل" width="360"></a> | <a href="images/infographic-poster.webp"><img src="images/infographic-poster.webp" alt="نموذج تصميم لموقع NoteLyn يعرض ملصقاً لملخص مرئي مع أزرار المشاركة والتنزيل" width="360"></a> |
+| <a href="../../images/podcast-episode.webp"><img src="../../images/podcast-episode.webp" alt="نموذج تصميم لموقع NoteLyn يعرض مشغّل حلقة بودكاست مع أدوات التشغيل" width="360"></a> | <a href="../../images/infographic-poster.webp"><img src="../../images/infographic-poster.webp" alt="نموذج تصميم لموقع NoteLyn يعرض ملصقاً لملخص مرئي مع أزرار المشاركة والتنزيل" width="360"></a> |
 
 اطّلع على [دليل ميزات NoteLyn](https://www.notelyn.com/ar/features) للاطلاع على الصيغ الحالية وتفاصيل الخطط.
 

@@ -1,6 +1,6 @@
 # NoteLyn AI
 
-<p dir="ltr"><a href="README.md">English</a> · <a href="README.de.md">Deutsch</a> · <a href="README.fr.md">Français</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt.md">Português</a> · <a href="README.ja.md">日本語</a> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.pl.md">Polski</a> · <strong>עברית</strong></p>
+<p dir="ltr"><a href="../../README.md">English</a> · <a href="README.de.md">Deutsch</a> · <a href="README.fr.md">Français</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt.md">Português</a> · <a href="README.ja.md">日本語</a> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.pl.md">Polski</a> · <strong>עברית</strong></p>
 
 <div dir="rtl" lang="he">
 
@@ -16,7 +16,7 @@ NoteLyn הוא כלי מבוסס AI לרישום הערות שהופך הקלט�
 
 [אתר](https://www.notelyn.com/he) · [App Store](https://apps.apple.com/app/id6747017579) · [Google Play](https://play.google.com/store/apps/details?id=com.studyai.ainotetaker)
 
-![תצוגת מוצר של NoteLyn AI הכוללת הערה לדוגמה, כרטיסייה וחידון](images/product-overview.png)
+![תצוגת מוצר של NoteLyn AI הכוללת הערה לדוגמה, כרטיסייה וחידון](../../images/product-overview.png)
 
 *התמונות הן דוגמאות עיצוב מוצר ואתר המיועדות להמחשה. תוכן הדוגמה, הציונים והיתרות מיועדים להדגמה בלבד; פריסות והגבלות עשויות להשתנות באפליקציה.*
 
@@ -130,22 +130,22 @@ NoteLyn הוא כלי מבוסס AI לרישום הערות שהופך הקלט�
 | **הביאו את החומר שלכם** | **קבלו הערה מאורגנת** |
 | --- | --- |
 | העלו הקלטה קיימת ובחרו את המחברת שלה. | עברו על כותרות, נקודות מרכזיות ומסקנות. |
-| <a href="images/capture-upload-audio.webp"><img src="images/capture-upload-audio.webp" alt="דוגמת עיצוב מאתר NoteLyn של חלון העלאת אודיו עם בוחר מחברות" width="360"></a> | <a href="images/ai-note-view.webp"><img src="images/ai-note-view.webp" alt="דוגמת עיצוב מאתר NoteLyn של הערה מובנית עם כותרות ומסקנות מרכזיות" width="360"></a> |
+| <a href="../../images/capture-upload-audio.webp"><img src="../../images/capture-upload-audio.webp" alt="דוגמת עיצוב מאתר NoteLyn של חלון העלאת אודיו עם בוחר מחברות" width="360"></a> | <a href="../../images/ai-note-view.webp"><img src="../../images/ai-note-view.webp" alt="דוגמת עיצוב מאתר NoteLyn של הערה מובנית עם כותרות ומסקנות מרכזיות" width="360"></a> |
 
 | **תרגלו עם כרטיסיות זיכרון** | **בדקו את ההבנה שלכם** |
 | --- | --- |
 | שחזרו תשובה, ואז הפכו את הכרטיסייה כדי לבדוק אותה. | פתרו חידון וקראו את ההסבר לתשובה. |
-| <a href="images/flashcards-deck.webp"><img src="images/flashcards-deck.webp" alt="דוגמת עיצוב מאתר NoteLyn של כרטיסייה עם שאלה וכפתור הפיכת הכרטיס" width="360"></a> | <a href="images/quiz.webp"><img src="images/quiz.webp" alt="דוגמת עיצוב מאתר NoteLyn של חידון עם תשובות נכונות ושגויות והסבר" width="360"></a> |
+| <a href="../../images/flashcards-deck.webp"><img src="../../images/flashcards-deck.webp" alt="דוגמת עיצוב מאתר NoteLyn של כרטיסייה עם שאלה וכפתור הפיכת הכרטיס" width="360"></a> | <a href="../../images/quiz.webp"><img src="../../images/quiz.webp" alt="דוגמת עיצוב מאתר NoteLyn של חידון עם תשובות נכונות ושגויות והסבר" width="360"></a> |
 
 | **חברו בין הרעיונות** | **שאלו על מה שלא ברור** |
 | --- | --- |
 | חקרו את המושגים המרכזיים כמפת חשיבה. | שאלו את ה-AI על מושג בהערה הפתוחה אצלכם. |
-| <a href="images/mind-map-view.webp"><img src="images/mind-map-view.webp" alt="דוגמת עיצוב מאתר NoteLyn של מפת חשיבה עם מושגים מקושרים ופקדי זום" width="360"></a> | <a href="images/ai-chat-panel.webp"><img src="images/ai-chat-panel.webp" alt="דוגמת עיצוב מאתר NoteLyn של צ'אט AI שעונה על שאלה לצד ההערה הנוכחית" width="360"></a> |
+| <a href="../../images/mind-map-view.webp"><img src="../../images/mind-map-view.webp" alt="דוגמת עיצוב מאתר NoteLyn של מפת חשיבה עם מושגים מקושרים ופקדי זום" width="360"></a> | <a href="../../images/ai-chat-panel.webp"><img src="../../images/ai-chat-panel.webp" alt="דוגמת עיצוב מאתר NoteLyn של צ'אט AI שעונה על שאלה לצד ההערה הנוכחית" width="360"></a> |
 
 | **האזינו לחומר שלכם** | **בחנו אותו בצורה חזותית** |
 | --- | --- |
 | צרו פרק פודקאסט עם שני מגישים. נדרשים Pro וקרדיטים לפודקאסט. | צרו אינפוגרפיקה של עמוד אחד לעיון או להורדה. |
-| <a href="images/podcast-episode.webp"><img src="images/podcast-episode.webp" alt="דוגמת עיצוב מאתר NoteLyn של נגן פרק פודקאסט עם פקדי השמעה" width="360"></a> | <a href="images/infographic-poster.webp"><img src="images/infographic-poster.webp" alt="דוגמת עיצוב מאתר NoteLyn של פוסטר סיכום חזותי עם פקדי שיתוף והורדה" width="360"></a> |
+| <a href="../../images/podcast-episode.webp"><img src="../../images/podcast-episode.webp" alt="דוגמת עיצוב מאתר NoteLyn של נגן פרק פודקאסט עם פקדי השמעה" width="360"></a> | <a href="../../images/infographic-poster.webp"><img src="../../images/infographic-poster.webp" alt="דוגמת עיצוב מאתר NoteLyn של פוסטר סיכום חזותי עם פקדי שיתוף והורדה" width="360"></a> |
 
 ראו [מדריך התכונות של NoteLyn](https://www.notelyn.com/he/features) לפורמטים העדכניים ולפרטי התוכניות.
 

@@ -1,6 +1,6 @@
 # NoteLyn AI
 
-<p dir="ltr"><a href="README.md">English</a> · <a href="README.de.md">Deutsch</a> · <strong>Français</strong> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt.md">Português</a> · <a href="README.ja.md">日本語</a> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.pl.md">Polski</a> · <a href="README.he.md">עברית</a></p>
+<p dir="ltr"><a href="../../README.md">English</a> · <a href="README.de.md">Deutsch</a> · <strong>Français</strong> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt.md">Português</a> · <a href="README.ja.md">日本語</a> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.pl.md">Polski</a> · <a href="README.he.md">עברית</a></p>
 
 **Transformez vos cours et supports d'étude en notes vraiment utiles.**
 
@@ -14,7 +14,7 @@ Apportez un cours à réviser, une lecture que vous souhaitez comprendre ou une 
 
 [Site web](https://www.notelyn.com/fr) · [App Store](https://apps.apple.com/app/id6747017579) · [Google Play](https://play.google.com/store/apps/details?id=com.studyai.ainotetaker)
 
-![Aperçu du produit NoteLyn AI montrant un exemple de note, une flashcard et un quiz](images/product-overview.png)
+![Aperçu du produit NoteLyn AI montrant un exemple de note, une flashcard et un quiz](../../images/product-overview.png)
 
 *Les images sont des exemples illustratifs de conception de produit et de site web. Les contenus, scores et soldes présentés sont à titre de démonstration ; la mise en page et les limites peuvent varier dans l'application.*
 
@@ -128,22 +128,22 @@ Suivez le chemin de l'enregistrement jusqu'à la séance de révision. Cliquez s
 | **Importez vos documents** | **Obtenez une note structurée** |
 | --- | --- |
 | Importez un enregistrement existant et choisissez son carnet. | Relisez les titres, les points clés et les conclusions. |
-| <a href="images/capture-upload-audio.webp"><img src="images/capture-upload-audio.webp" alt="Exemple de conception du site NoteLyn : boîte de dialogue d'import audio avec sélecteur de carnet" width="360"></a> | <a href="images/ai-note-view.webp"><img src="images/ai-note-view.webp" alt="Exemple de conception du site NoteLyn : note structurée avec titres et conclusions clés" width="360"></a> |
+| <a href="../../images/capture-upload-audio.webp"><img src="../../images/capture-upload-audio.webp" alt="Exemple de conception du site NoteLyn : boîte de dialogue d'import audio avec sélecteur de carnet" width="360"></a> | <a href="../../images/ai-note-view.webp"><img src="../../images/ai-note-view.webp" alt="Exemple de conception du site NoteLyn : note structurée avec titres et conclusions clés" width="360"></a> |
 
 | **Entraînez-vous avec des flashcards** | **Vérifiez votre compréhension** |
 | --- | --- |
 | Retrouvez une réponse, puis retournez la carte pour la vérifier. | Passez un quiz et lisez l'explication d'une réponse. |
-| <a href="images/flashcards-deck.webp"><img src="images/flashcards-deck.webp" alt="Exemple de conception du site NoteLyn : flashcard avec une question et le bouton Retourner la carte" width="360"></a> | <a href="images/quiz.webp"><img src="images/quiz.webp" alt="Exemple de conception du site NoteLyn : quiz avec réponses correctes et incorrectes et une explication" width="360"></a> |
+| <a href="../../images/flashcards-deck.webp"><img src="../../images/flashcards-deck.webp" alt="Exemple de conception du site NoteLyn : flashcard avec une question et le bouton Retourner la carte" width="360"></a> | <a href="../../images/quiz.webp"><img src="../../images/quiz.webp" alt="Exemple de conception du site NoteLyn : quiz avec réponses correctes et incorrectes et une explication" width="360"></a> |
 
 | **Reliez les idées** | **Posez vos questions sur ce qui reste flou** |
 | --- | --- |
 | Explorez les concepts principaux sous forme de carte mentale. | Interrogez l'IA sur un concept de la note ouverte. |
-| <a href="images/mind-map-view.webp"><img src="images/mind-map-view.webp" alt="Exemple de conception du site NoteLyn : carte mentale avec concepts reliés et commandes de zoom" width="360"></a> | <a href="images/ai-chat-panel.webp"><img src="images/ai-chat-panel.webp" alt="Exemple de conception du site NoteLyn : chat IA répondant à une question à côté de la note actuelle" width="360"></a> |
+| <a href="../../images/mind-map-view.webp"><img src="../../images/mind-map-view.webp" alt="Exemple de conception du site NoteLyn : carte mentale avec concepts reliés et commandes de zoom" width="360"></a> | <a href="../../images/ai-chat-panel.webp"><img src="../../images/ai-chat-panel.webp" alt="Exemple de conception du site NoteLyn : chat IA répondant à une question à côté de la note actuelle" width="360"></a> |
 
 | **Écoutez vos documents** | **Révisez visuellement** |
 | --- | --- |
 | Générez un épisode de podcast à deux voix. Un abonnement Pro et des crédits de podcast sont nécessaires. | Générez une infographie d'une page à relire ou à télécharger. |
-| <a href="images/podcast-episode.webp"><img src="images/podcast-episode.webp" alt="Exemple de conception du site NoteLyn : lecteur d'épisode de podcast avec commandes de lecture" width="360"></a> | <a href="images/infographic-poster.webp"><img src="images/infographic-poster.webp" alt="Exemple de conception du site NoteLyn : affiche de résumé visuel avec commandes Partager et Télécharger" width="360"></a> |
+| <a href="../../images/podcast-episode.webp"><img src="../../images/podcast-episode.webp" alt="Exemple de conception du site NoteLyn : lecteur d'épisode de podcast avec commandes de lecture" width="360"></a> | <a href="../../images/infographic-poster.webp"><img src="../../images/infographic-poster.webp" alt="Exemple de conception du site NoteLyn : affiche de résumé visuel avec commandes Partager et Télécharger" width="360"></a> |
 
 Consultez le [guide des fonctionnalités de NoteLyn](https://www.notelyn.com/fr/features) pour les formats et les détails des offres actuels.
 

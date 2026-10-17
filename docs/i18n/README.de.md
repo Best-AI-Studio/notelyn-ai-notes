@@ -1,6 +1,6 @@
 # NoteLyn AI
 
-<p dir="ltr"><a href="README.md">English</a> · <strong>Deutsch</strong> · <a href="README.fr.md">Français</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt.md">Português</a> · <a href="README.ja.md">日本語</a> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.pl.md">Polski</a> · <a href="README.he.md">עברית</a></p>
+<p dir="ltr"><a href="../../README.md">English</a> · <strong>Deutsch</strong> · <a href="README.fr.md">Français</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt.md">Português</a> · <a href="README.ja.md">日本語</a> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.pl.md">Polski</a> · <a href="README.he.md">עברית</a></p>
 
 **Verwandle Vorlesungen und Lernmaterialien in Notizen, die du wirklich nutzen kannst.**
 
@@ -14,7 +14,7 @@ Bring eine Vorlesung mit, die du wiederholen musst, einen Text, den du verstehen
 
 [Website](https://www.notelyn.com/de) · [App Store](https://apps.apple.com/app/id6747017579) · [Google Play](https://play.google.com/store/apps/details?id=com.studyai.ainotetaker)
 
-![Produktübersicht von NoteLyn AI mit einer Beispielnotiz, einer Karteikarte und einem Quiz](images/product-overview.png)
+![Produktübersicht von NoteLyn AI mit einer Beispielnotiz, einer Karteikarte und einem Quiz](../../images/product-overview.png)
 
 *Die Bilder sind illustrative Design-Beispiele für Produkt und Website. Beispielinhalte, Punktzahlen und Guthaben dienen nur der Veranschaulichung; Layouts und Grenzen können in der App abweichen.*
 
@@ -128,22 +128,22 @@ Folge dem Weg von einer Aufnahme bis zur Wiederholungssession. Klicke auf ein Bi
 | **Bring dein Material ein** | **Erhalte eine strukturierte Notiz** |
 | --- | --- |
 | Lade eine vorhandene Aufnahme hoch und wähle ihr Notizbuch. | Sieh dir Überschriften, Kernpunkte und Fazit an. |
-| <a href="images/capture-upload-audio.webp"><img src="images/capture-upload-audio.webp" alt="Website-Designbeispiel von NoteLyn: Dialog zum Audio-Upload mit Auswahl des Notizbuchs" width="360"></a> | <a href="images/ai-note-view.webp"><img src="images/ai-note-view.webp" alt="Website-Designbeispiel von NoteLyn: strukturierte Notiz mit Überschriften und Fazit" width="360"></a> |
+| <a href="../../images/capture-upload-audio.webp"><img src="../../images/capture-upload-audio.webp" alt="Website-Designbeispiel von NoteLyn: Dialog zum Audio-Upload mit Auswahl des Notizbuchs" width="360"></a> | <a href="../../images/ai-note-view.webp"><img src="../../images/ai-note-view.webp" alt="Website-Designbeispiel von NoteLyn: strukturierte Notiz mit Überschriften und Fazit" width="360"></a> |
 
 | **Üben mit Karteikarten** | **Prüfe dein Verständnis** |
 | --- | --- |
 | Rufe eine Antwort ab und dreh die Karte dann um, um sie zu prüfen. | Mach ein Quiz und lies die Erklärung zu einer Antwort. |
-| <a href="images/flashcards-deck.webp"><img src="images/flashcards-deck.webp" alt="Website-Designbeispiel von NoteLyn: Karteikarte mit Frage und Schaltfläche „Karte umdrehen“" width="360"></a> | <a href="images/quiz.webp"><img src="images/quiz.webp" alt="Website-Designbeispiel von NoteLyn: Quiz mit richtigen und falschen Antworten sowie einer Erklärung" width="360"></a> |
+| <a href="../../images/flashcards-deck.webp"><img src="../../images/flashcards-deck.webp" alt="Website-Designbeispiel von NoteLyn: Karteikarte mit Frage und Schaltfläche „Karte umdrehen“" width="360"></a> | <a href="../../images/quiz.webp"><img src="../../images/quiz.webp" alt="Website-Designbeispiel von NoteLyn: Quiz mit richtigen und falschen Antworten sowie einer Erklärung" width="360"></a> |
 
 | **Verbinde die Ideen** | **Frag nach, was unklar wirkt** |
 | --- | --- |
 | Erkunde die Hauptkonzepte als Mindmap. | Frag die KI nach einem Konzept in der gerade geöffneten Notiz. |
-| <a href="images/mind-map-view.webp"><img src="images/mind-map-view.webp" alt="Website-Designbeispiel von NoteLyn: Mindmap mit verbundenen Konzepten und Zoomsteuerung" width="360"></a> | <a href="images/ai-chat-panel.webp"><img src="images/ai-chat-panel.webp" alt="Website-Designbeispiel von NoteLyn: KI-Chat, der neben der aktuellen Notiz eine Frage beantwortet" width="360"></a> |
+| <a href="../../images/mind-map-view.webp"><img src="../../images/mind-map-view.webp" alt="Website-Designbeispiel von NoteLyn: Mindmap mit verbundenen Konzepten und Zoomsteuerung" width="360"></a> | <a href="../../images/ai-chat-panel.webp"><img src="../../images/ai-chat-panel.webp" alt="Website-Designbeispiel von NoteLyn: KI-Chat, der neben der aktuellen Notiz eine Frage beantwortet" width="360"></a> |
 
 | **Höre dir dein Material an** | **Wiederhole es visuell** |
 | --- | --- |
 | Erstelle eine Podcast-Episode mit zwei Hosts. Dafür brauchst du Pro und Podcast-Credits. | Erstelle eine einseitige Infografik zum Wiederholen oder Herunterladen. |
-| <a href="images/podcast-episode.webp"><img src="images/podcast-episode.webp" alt="Website-Designbeispiel von NoteLyn: Player einer Podcast-Episode mit Wiedergabesteuerung" width="360"></a> | <a href="images/infographic-poster.webp"><img src="images/infographic-poster.webp" alt="Website-Designbeispiel von NoteLyn: visuelles Übersichtsposter mit Schaltflächen für Teilen und Herunterladen" width="360"></a> |
+| <a href="../../images/podcast-episode.webp"><img src="../../images/podcast-episode.webp" alt="Website-Designbeispiel von NoteLyn: Player einer Podcast-Episode mit Wiedergabesteuerung" width="360"></a> | <a href="../../images/infographic-poster.webp"><img src="../../images/infographic-poster.webp" alt="Website-Designbeispiel von NoteLyn: visuelles Übersichtsposter mit Schaltflächen für Teilen und Herunterladen" width="360"></a> |
 
 Aktuelle Formate und Details zu den Tarifen findest du im [Funktionsleitfaden von NoteLyn](https://www.notelyn.com/de/features).
 

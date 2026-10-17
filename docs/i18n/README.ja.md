@@ -1,6 +1,6 @@
 # NoteLyn AI
 
-<p dir="ltr"><a href="README.md">English</a> · <a href="README.de.md">Deutsch</a> · <a href="README.fr.md">Français</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt.md">Português</a> · <strong>日本語</strong> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.pl.md">Polski</a> · <a href="README.he.md">עברית</a></p>
+<p dir="ltr"><a href="../../README.md">English</a> · <a href="README.de.md">Deutsch</a> · <a href="README.fr.md">Français</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt.md">Português</a> · <strong>日本語</strong> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.pl.md">Polski</a> · <a href="README.he.md">עברית</a></p>
 
 **講義や学習資料を、実際に役立つノートに変えましょう。**
 
@@ -14,7 +14,7 @@ NoteLynは、録音、PDF、ドキュメント、写真、リンクを構造化�
 
 [ウェブサイト](https://www.notelyn.com/ja) · [App Store](https://apps.apple.com/app/id6747017579) · [Google Play](https://play.google.com/store/apps/details?id=com.studyai.ainotetaker)
 
-![サンプルノート、フラッシュカード、クイズを表示しているNoteLyn AIの製品概要](images/product-overview.png)
+![サンプルノート、フラッシュカード、クイズを表示しているNoteLyn AIの製品概要](../../images/product-overview.png)
 
 *画像は製品およびウェブサイトのデザイン例であり、説明用です。サンプルのコンテンツ、スコア、残高はデモ用のものです。実際のアプリでは、レイアウトや上限が異なる場合があります。*
 
@@ -128,22 +128,22 @@ NoteLynはウェブ、iOS、Androidで利用でき、資料を取り込む場所
 | **資料を取り込む** | **整理されたノートを得る** |
 | --- | --- |
 | 既存の録音をアップロードし、ノートブックを選択します。 | 見出し、要点、まとめを確認します。 |
-| <a href="images/capture-upload-audio.webp"><img src="images/capture-upload-audio.webp" alt="ノートブックの選択画面を含む音声アップロードダイアログのNoteLyn Webデザイン例" width="360"></a> | <a href="images/ai-note-view.webp"><img src="images/ai-note-view.webp" alt="見出しと重要なまとめを含む構造化ノートのNoteLyn Webデザイン例" width="360"></a> |
+| <a href="../../images/capture-upload-audio.webp"><img src="../../images/capture-upload-audio.webp" alt="ノートブックの選択画面を含む音声アップロードダイアログのNoteLyn Webデザイン例" width="360"></a> | <a href="../../images/ai-note-view.webp"><img src="../../images/ai-note-view.webp" alt="見出しと重要なまとめを含む構造化ノートのNoteLyn Webデザイン例" width="360"></a> |
 
 | **フラッシュカードで練習する** | **理解度を確認する** |
 | --- | --- |
 | 答えを思い出してから、カードをめくって確認します。 | クイズに答え、その解答の解説を読みます。 |
-| <a href="images/flashcards-deck.webp"><img src="images/flashcards-deck.webp" alt="質問と「カードをめくる」ボタンを含むフラッシュカードのNoteLyn Webデザイン例" width="360"></a> | <a href="images/quiz.webp"><img src="images/quiz.webp" alt="正解と不正解、解説を含むクイズのNoteLyn Webデザイン例" width="360"></a> |
+| <a href="../../images/flashcards-deck.webp"><img src="../../images/flashcards-deck.webp" alt="質問と「カードをめくる」ボタンを含むフラッシュカードのNoteLyn Webデザイン例" width="360"></a> | <a href="../../images/quiz.webp"><img src="../../images/quiz.webp" alt="正解と不正解、解説を含むクイズのNoteLyn Webデザイン例" width="360"></a> |
 
 | **アイデア同士をつなげる** | **分かりにくい点を質問する** |
 | --- | --- |
 | 主要な概念をマインドマップで確認します。 | 開いているノートの概念について、AIに質問します。 |
-| <a href="images/mind-map-view.webp"><img src="images/mind-map-view.webp" alt="つながった概念とズームコントロールを含むマインドマップのNoteLyn Webデザイン例" width="360"></a> | <a href="images/ai-chat-panel.webp"><img src="images/ai-chat-panel.webp" alt="現在のノートの横で質問に答えるAIチャットのNoteLyn Webデザイン例" width="360"></a> |
+| <a href="../../images/mind-map-view.webp"><img src="../../images/mind-map-view.webp" alt="つながった概念とズームコントロールを含むマインドマップのNoteLyn Webデザイン例" width="360"></a> | <a href="../../images/ai-chat-panel.webp"><img src="../../images/ai-chat-panel.webp" alt="現在のノートの横で質問に答えるAIチャットのNoteLyn Webデザイン例" width="360"></a> |
 
 | **資料を聴く** | **ビジュアルで見直す** |
 | --- | --- |
 | 2人のホストによるポッドキャストのエピソードを生成します。Proプランとポッドキャスト用のクレジットが必要です。 | 見直したりダウンロードしたりできる1ページのインフォグラフィックを生成します。 |
-| <a href="images/podcast-episode.webp"><img src="images/podcast-episode.webp" alt="再生コントロールを含むポッドキャストエピソードプレーヤーのNoteLyn Webデザイン例" width="360"></a> | <a href="images/infographic-poster.webp"><img src="images/infographic-poster.webp" alt="共有とダウンロードのコントロールを含むビジュアル要約ポスターのNoteLyn Webデザイン例" width="360"></a> |
+| <a href="../../images/podcast-episode.webp"><img src="../../images/podcast-episode.webp" alt="再生コントロールを含むポッドキャストエピソードプレーヤーのNoteLyn Webデザイン例" width="360"></a> | <a href="../../images/infographic-poster.webp"><img src="../../images/infographic-poster.webp" alt="共有とダウンロードのコントロールを含むビジュアル要約ポスターのNoteLyn Webデザイン例" width="360"></a> |
 
 現在の形式やプランの詳細は、[NoteLynの機能ガイド](https://www.notelyn.com/ja/features)をご覧ください。
 
